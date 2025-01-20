@@ -5,7 +5,8 @@
 ---week 1 -Day 1 
     -- Creating a different tables for a easy to understand or for brief Analysis on the data --
     - Creating a table 
-    1. Invectory table:
+   
+  1. Invectory table:
        - Product type
        - SKU
        - Availability
