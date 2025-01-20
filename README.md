@@ -4,7 +4,7 @@
 
 ---week 1 -Day 1 
     -- Creating a different tables for a easy to understand or for brief Analysis on the data --
-    - Creating a tables with following attribute:  
+    - Creating a tables with following attribute: 
    
   1. Invectory table:
        - Product type
