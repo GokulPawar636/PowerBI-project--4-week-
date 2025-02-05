@@ -2,9 +2,8 @@
   ---Sustainable Supply Chain Performance Dashboard in Power BI---
  In this Project we will create comprehensive Dashboard for managing and analyzing supply chain inventory data, manufacturing data and supplier data.
 
----week 1 -Day 1 
-    -- Creating a different tables for a easy to understand or for brief Analysis on the data --
-    - Creating a tables with following attribute: 
+  -- Creating a different tables for a easy to understand or for brief Analysis on the data --
+  - Creating a tables with following attribute: 
    
   1. Invectory table:
        - Product type
